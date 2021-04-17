@@ -1,0 +1,1 @@
+This is a Python script written as part of the final project for the [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization) course offerred by IBM on Coursera. 
