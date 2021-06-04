@@ -25,4 +25,4 @@ Dash is running on http://localhost:8050/
 
 ```
 
-Copy and paste the line that looks like ```http://localhost:8050/```.
+Copy and paste the link that looks like ```http://localhost:8050/``` into your browser for checking out the dashboard.
